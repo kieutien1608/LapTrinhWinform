@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lab_C#\\BTAP13032026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|d:\\lab_c#\\btap13032026\\btap13032026\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|solutionrelative:btap13032026\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|d:\\lab_c#\\btap13032026\\btap13032026\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|solutionrelative:btap13032026\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|d:\\lab_c#\\btap13032026\\btap13032026\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|solutionrelative:btap13032026\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|d:\\lab_c#\\btap13032026\\btap13032026\\editstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|solutionrelative:btap13032026\\editstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|d:\\lab_c#\\btap13032026\\btap13032026\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|solutionrelative:btap13032026\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|d:\\lab_c#\\btap13032026\\btap13032026\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|solutionrelative:btap13032026\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|d:\\lab_c#\\btap13032026\\btap13032026\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|solutionrelative:btap13032026\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|d:\\lab_c#\\btap13032026\\btap13032026\\editstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|solutionrelative:btap13032026\\editstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|d:\\lab_c#\\btap13032026\\btap13032026\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|solutionrelative:btap13032026\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|d:\\lab_c#\\btap13032026\\btap13032026\\editstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|solutionrelative:btap13032026\\editstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|d:\\lab_c#\\btap13032026\\btap13032026\\editstudent.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|solutionrelative:btap13032026\\editstudent.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|d:\\lab_c#\\btap13032026\\btap13032026\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|solutionrelative:btap13032026\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|d:\\lab_c#\\btap13032026\\btap13032026\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|solutionrelative:btap13032026\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|d:\\lab_c#\\btap13032026\\btap13032026\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|solutionrelative:btap13032026\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|d:\\lab_c#\\btap13032026\\btap13032026\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|solutionrelative:btap13032026\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|d:\\lab_c#\\btap13032026\\btap13032026\\addstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|solutionrelative:btap13032026\\addstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|d:\\lab_c#\\btap13032026\\btap13032026\\studentlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25178BE1-3F95-42B7-9B05-8BB0DCDB4208}|BTAP13032026\\BTAP13032026.csproj|solutionrelative:btap13032026\\studentlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 30,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditStudent.cs",
+              "DocumentMoniker": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\EditStudent.cs",
+              "RelativeDocumentMoniker": "BTAP13032026\\EditStudent.cs",
+              "ToolTip": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\EditStudent.cs",
+              "RelativeToolTip": "BTAP13032026\\EditStudent.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:14:17.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddStudent.cs",
+              "DocumentMoniker": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\AddStudent.cs",
+              "RelativeDocumentMoniker": "BTAP13032026\\AddStudent.cs",
+              "ToolTip": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\AddStudent.cs",
+              "RelativeToolTip": "BTAP13032026\\AddStudent.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:07:27.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.resx",
+              "DocumentMoniker": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\Login.resx",
+              "RelativeDocumentMoniker": "BTAP13032026\\Login.resx",
+              "ToolTip": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\Login.resx",
+              "RelativeToolTip": "BTAP13032026\\Login.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-12T14:07:11.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "BTAP13032026\\Login.Designer.cs",
+              "ToolTip": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\Login.Designer.cs",
+              "RelativeToolTip": "BTAP13032026\\Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:07:07.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditStudent.resx",
+              "DocumentMoniker": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\EditStudent.resx",
+              "RelativeDocumentMoniker": "BTAP13032026\\EditStudent.resx",
+              "ToolTip": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\EditStudent.resx",
+              "RelativeToolTip": "BTAP13032026\\EditStudent.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-12T14:06:59.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditStudent.Designer.cs",
+              "DocumentMoniker": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\EditStudent.Designer.cs",
+              "RelativeDocumentMoniker": "BTAP13032026\\EditStudent.Designer.cs",
+              "ToolTip": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\EditStudent.Designer.cs",
+              "RelativeToolTip": "BTAP13032026\\EditStudent.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:06:54.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddStudent.Designer.cs",
+              "DocumentMoniker": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\AddStudent.Designer.cs",
+              "RelativeDocumentMoniker": "BTAP13032026\\AddStudent.Designer.cs",
+              "ToolTip": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\AddStudent.Designer.cs",
+              "RelativeToolTip": "BTAP13032026\\AddStudent.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T13:52:25.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddStudent.cs [Design]",
+              "DocumentMoniker": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\AddStudent.cs",
+              "RelativeDocumentMoniker": "BTAP13032026\\AddStudent.cs",
+              "ToolTip": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\AddStudent.cs [Design]",
+              "RelativeToolTip": "BTAP13032026\\AddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T13:52:00.356Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditStudent.cs [Design]",
+              "DocumentMoniker": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\EditStudent.cs",
+              "RelativeDocumentMoniker": "BTAP13032026\\EditStudent.cs",
+              "ToolTip": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\EditStudent.cs [Design]",
+              "RelativeToolTip": "BTAP13032026\\EditStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T13:50:58.378Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\SinhVien.cs",
+              "RelativeDocumentMoniker": "BTAP13032026\\SinhVien.cs",
+              "ToolTip": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\SinhVien.cs",
+              "RelativeToolTip": "BTAP13032026\\SinhVien.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T13:24:24.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\DangNhap.cs",
+              "RelativeDocumentMoniker": "BTAP13032026\\DangNhap.cs",
+              "ToolTip": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\DangNhap.cs",
+              "RelativeToolTip": "BTAP13032026\\DangNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T10:43:40.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\Database.cs",
+              "RelativeDocumentMoniker": "BTAP13032026\\Database.cs",
+              "ToolTip": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\Database.cs",
+              "RelativeToolTip": "BTAP13032026\\Database.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T10:23:40.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentList.cs",
+              "DocumentMoniker": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\StudentList.cs",
+              "RelativeDocumentMoniker": "BTAP13032026\\StudentList.cs",
+              "ToolTip": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\StudentList.cs",
+              "RelativeToolTip": "BTAP13032026\\StudentList.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAWwEsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:28:59.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentList.cs [Design]",
+              "DocumentMoniker": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\StudentList.cs",
+              "RelativeDocumentMoniker": "BTAP13032026\\StudentList.cs",
+              "ToolTip": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\StudentList.cs [Design]",
+              "RelativeToolTip": "BTAP13032026\\StudentList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:20:32.671Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentList.Designer.cs",
+              "DocumentMoniker": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\StudentList.Designer.cs",
+              "RelativeDocumentMoniker": "BTAP13032026\\StudentList.Designer.cs",
+              "ToolTip": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\StudentList.Designer.cs",
+              "RelativeToolTip": "BTAP13032026\\StudentList.Designer.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwF4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:20:06.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\Login.cs",
+              "RelativeDocumentMoniker": "BTAP13032026\\Login.cs",
+              "ToolTip": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\Login.cs",
+              "RelativeToolTip": "BTAP13032026\\Login.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAIA5wA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T04:20:06.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\Login.cs",
+              "RelativeDocumentMoniker": "BTAP13032026\\Login.cs",
+              "ToolTip": "D:\\Lab_C#\\BTAP13032026\\BTAP13032026\\Login.cs [Design]",
+              "RelativeToolTip": "BTAP13032026\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:15:19.267Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 309,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
