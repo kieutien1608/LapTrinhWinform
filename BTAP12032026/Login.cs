@@ -63,8 +63,10 @@ namespace BTAP13032026
             }
             if (dangNhapThanhCong)
             {
-                StudentList sl = new StudentList();
-                sl.ShowDialog();
+                this.Hide();
+                Home home = new Home();
+                home.FormClosed += (s, args) => Application.Exit(); 
+                home.Show();
             }
             else
             {
