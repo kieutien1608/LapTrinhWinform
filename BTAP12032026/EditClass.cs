@@ -38,7 +38,7 @@ namespace BTAP13032026
         {
             if (_lopHoc == null) return;
 
-            if (string.IsNullOrEmpty(textBox1.Text.Trim()))
+            if (string.IsNullOrEmpty(textBox2.Text.Trim())) // ← Sửa textBox1 → textBox2
             {
                 MessageBox.Show("Vui lòng nhập Tên Lớp!",
                     "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
